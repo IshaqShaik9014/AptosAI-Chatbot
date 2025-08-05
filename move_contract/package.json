@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@aptos-labs/ts-sdk": "^4.0.0",
+    "openai": "^5.11.0"
+  }
+}

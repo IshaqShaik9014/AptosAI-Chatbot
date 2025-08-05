@@ -1,0 +1,10 @@
+[package]
+name = "chat_storage"
+version = "1.0.0"
+authors = []
+
+[addresses]
+chat_storage = "0xbce003f32dde6d7da63e49d6bd5e1ad28fcda376a531859ff9f14f3e33a2f4b8"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "main" }
