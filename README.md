@@ -133,6 +133,8 @@ npm run dev</code></pre>
 
  ![WhatsApp Image 2025-08-07 at 13 04 32_e414232d](https://github.com/user-attachments/assets/b4b0214e-c8ff-4699-9335-797f51dc4afd)
 
+<img width="959" height="1015" alt="Screenshot 2025-08-07 132456" src="https://github.com/user-attachments/assets/29147b8f-a285-43ff-977f-ae73aab94d4a" />
+
 
 
 
