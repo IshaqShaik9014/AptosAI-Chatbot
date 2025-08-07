@@ -28,7 +28,7 @@ const ChatApp = () => {
     }
   }, [connected, account]);
 
-  // Fetch on-chain messages for this account
+  
   async function fetchOnChainMessages(address) {
     setIsLoading(true);
     try {
@@ -43,7 +43,7 @@ const ChatApp = () => {
       });
       const data = await res.json();
       if (Array.isArray(data) && data.length > 0 && Array.isArray(data[0])) {
-        // Messages are stored as a vector<string>
+        
         setChat(
           data[0].map((msg, idx) => ({
             role: idx % 2 === 0 ? "user" : "ai",
