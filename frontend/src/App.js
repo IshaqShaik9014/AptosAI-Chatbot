@@ -13,12 +13,12 @@ const ChatApp = () => {
   const [onChainLoaded, setOnChainLoaded] = useState(false);
   const chatEndRef = useRef(null);
 
-  // Scroll to latest message
+  
   useEffect(() => {
     chatEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [chat]);
 
-  // Load on-chain messages when wallet connects
+  
   useEffect(() => {
     if (connected && account?.address) {
       fetchOnChainMessages(account.address);
