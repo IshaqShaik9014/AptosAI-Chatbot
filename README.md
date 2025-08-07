@@ -128,15 +128,11 @@ npm run dev</code></pre>
 </body>
 </html>
 
- 
-![WhatsApp Image 2025-08-07 at 13 04 32_3fa15102](https://github.com/user-attachments/assets/ab001abc-b131-4d05-9e16-9791bf045287)
-
- ![WhatsApp Image 2025-08-07 at 13 04 32_e414232d](https://github.com/user-attachments/assets/b4b0214e-c8ff-4699-9335-797f51dc4afd)
-
-
-
+ <img width="1300" height="636"  src="https://github.com/user-attachments/assets/41cbd71f-dd29-4322-8c04-a061e46364c6" />
+<img width="1300" height="636" src="(https://github.com/user-attachments/assets/dcc375ed-9f77-4740-ac68-f25066cd39f6" />
 
 <img width="928" height="936" alt="Screenshot 2025-08-07 132821" src="https://github.com/user-attachments/assets/bc488e84-ad92-4aae-b971-863d16dcecb1" />
+
 
 
 
