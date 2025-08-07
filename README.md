@@ -129,9 +129,10 @@ npm run dev</code></pre>
 </html>
 
  <img width="1300" height="636"  src="https://github.com/user-attachments/assets/41cbd71f-dd29-4322-8c04-a061e46364c6" />
-<img width="1300" height="636" src="(https://github.com/user-attachments/assets/dcc375ed-9f77-4740-ac68-f25066cd39f6" />
+<img width="1300" height="636" src="https://github.com/user-attachments/assets/dcc375ed-9f77-4740-ac68-f25066cd39f6" />
 
 <img width="928" height="936" alt="Screenshot 2025-08-07 132821" src="https://github.com/user-attachments/assets/bc488e84-ad92-4aae-b971-863d16dcecb1" />
+
 
 
 
