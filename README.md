@@ -127,11 +127,13 @@ npm run dev</code></pre>
 
 </body>
 </html>
- 
 
  
-<img width="2036" height="1177" alt="Screenshot 2025-08-07 105435" src="https://github.com/user-attachments/assets/07ea0fb3-6584-44b3-bcf0-94e99d5911bf" />
+![WhatsApp Image 2025-08-07 at 13 04 32_3fa15102](https://github.com/user-attachments/assets/ab001abc-b131-4d05-9e16-9791bf045287)
 
-<img width="1942" height="546" alt="Screenshot 2025-08-07 105545" src="https://github.com/user-attachments/assets/b86e928a-cd49-48a0-a0f7-f2339e87a2f1" />
+ ![WhatsApp Image 2025-08-07 at 13 04 32_e414232d](https://github.com/user-attachments/assets/b4b0214e-c8ff-4699-9335-797f51dc4afd)
+
+
+
 
 
